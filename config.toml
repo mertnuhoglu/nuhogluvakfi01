@@ -1,4 +1,4 @@
-baseurl = "https://nuhogluvakfi.netlify.com"
+baseurl = "https://nuhogluvakfi.netlify.com/"
 title = "Nuhoğlu Vakfı"
 theme = "hugo-universal-theme"
 languageCode = "en-us"
