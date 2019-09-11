@@ -1,5 +1,5 @@
 baseurl = "https://example.org"
-title = "Universal"
+title = "Nuhoğlu Vakfı"
 theme = "hugo-universal-theme"
 languageCode = "en-us"
 # Site language. Available translations in the theme's `/i18n` directory.
@@ -18,52 +18,143 @@ paginate = 10
 
 [[menu.main]]
     identifier="home"
-    name = "Home"
+    name = "ANASAYFA"
     url  = "/"
     weight = 1
 
 [[menu.main]]
-    identifier="blog"
-    name = "Blog"
-    url  = "/blog/"
+    identifier="nuhoglu_vakfi"
+    name = "NUHOĞLU VAKFI"
+    url  = "/nuhoglu_vakfi/"
     weight = 2
 
 [[menu.main]]
-    identifier = "faq"
-    name = "FAQ"
-    url  = "/faq/"
+    parent = "nuhoglu_vakfi"
+    name = "BAŞKAN'DAN"
+    url = "/nuhoglu_vakfi/baskandan/"
+
+[[menu.main]]
+    parent = "nuhoglu_vakfi"
+    name = "KİMLİK"
+    url = "/nuhoglu_vakfi/kimlik/"
+
+[[menu.main]]
+    parent = "nuhoglu_vakfi"
+    name = "YÖNETİM KURULU"
+    url = "/nuhoglu_vakfi/yonetim_kurulu/"
+
+[[menu.main]]
+    parent = "nuhoglu_vakfi"
+    name = "DENETİM KURULU"
+    url = "/nuhoglu_vakfi/denetim_kurulu/"
+
+[[menu.main]]
+    parent = "nuhoglu_vakfi"
+    name = "KOMİTELER"
+    url = "/nuhoglu_vakfi/komiteler/"
+
+[[menu.main]]
+    parent = "nuhoglu_vakfi"
+    name = "DANIŞMA MECLİSİ"
+    url = "/nuhoglu_vakfi/danisma_meclisi/"
+
+[[menu.main]]
+    parent = "nuhoglu_vakfi"
+    name = "VAKIF SENEDİ"
+    url = "/nuhoglu_vakfi/vakif_senedi/"
+
+[[menu.main]]
+    parent = "nuhoglu_vakfi"
+    name = "DERGİ"
+    url = "/nuhoglu_vakfi/dergi/"
+
+[[menu.main]]
+    parent = "nuhoglu_vakfi"
+    name = "MEYVE BAHÇEMİZ"
+    url = "/nuhoglu_vakfi/meyve_bahcemiz/"
+
+[[menu.main]]
+    identifier = "haberler"
+    name = "HABERLER"
+    url  = "/haberler/"
     weight = 3
 
 [[menu.main]]
-    identifier = "contact"
-    name = "Contact"
-    url  = "/contact/"
+    identifier = "basvuru_belgeleri"
+    name = "BAŞVURU BELGELERİ"
+    url  = "/basvuru_belgeleri/"
     weight = 4
+
+[[menu.main]]
+    parent = "basvuru_belgeleri"
+    name = "ÜYE BİLGİ FORMU"
+    url = "/basvuru_belgeleri/uye_bilgi_formu/"
+
+[[menu.main]]
+    parent = "basvuru_belgeleri"
+    name = "SOSYAL YARDIM İSTEK FORMU"
+    url = "/basvuru_belgeleri/sosyal_yardim_istek_formu/"
+
+[[menu.main]]
+    parent = "basvuru_belgeleri"
+    name = "KIRTASİYE YARDIM ve İSTEK FORMU"
+    url = "/basvuru_belgeleri/kirtasiye_yardim_istek_formu/"
+
+[[menu.main]]
+    parent = "basvuru_belgeleri"
+    name = "DİLEK ve İSTEK FORMU"
+    url = "/basvuru_belgeleri/dilek_istek_formu/"
+
+[[menu.main]]
+    parent = "basvuru_belgeleri"
+    name = "BURS BAŞVURUSU"
+    url = "/basvuru_belgeleri/burs_basvurusu/"
+
+[[menu.main]]
+    identifier = "iletisim"
+    name = "İLETİŞİM"
+    url  = "/iletisim/"
+    weight = 5
+
+[[menu.main]]
+    parent = "iletisim"
+    name = "İLETİŞİM BİLGİLERİ"
+    url  = "/iletisim/iletisim_bilgileri/"
+
+[[menu.main]]
+    parent = "iletisim"
+    name = "İLETİŞİM FORMU"
+    url  = "/iletisim/iletisim_formu/"
+
+[[menu.main]]
+    parent = "iletisim"
+    name = "SSS"
+    url  = "/faq/"
 
 # Top bar social links menu
 
 [[menu.topbar]]
     weight = 1
-    name = "GitHub"
-    url = "https://github.com/devcows/hugo-universal-theme"
-    pre = "<i class='fa fa-2x fa-github'></i>"
-
-[[menu.topbar]]
-    weight = 2
     name = "Facebook"
-    url = "http://facebook.com"
+    url = "https://facebook.com/nuhogluvakfi"
     pre = "<i class='fa fa-2x fa-facebook'></i>"
 
 [[menu.topbar]]
+    weight = 2
+    name = "Youtube"
+    url = "https://www.youtube.com/channel/UCbq-V_ZDHtkdy_muRJqfC2w"
+    pre = "<i class='fa fa-2x fa-youtube'></i>"
+
+[[menu.topbar]]
     weight = 3
-    name = "Twitter"
-    url = "http://twitter.com"
-    pre = "<i class='fa fa-2x fa-twitter'></i>"
+    name = "Instagram"
+    url = "https://instagram.com/nuhogluvakfi"
+    pre = "<i class='fa fa-2x fa-instagram'></i>"
 
 [[menu.topbar]]
     weight = 4
     name = "Email"
-    url = "mailto:your@email.com"
+    url = "mailto:info@nuhoglu.org.tr"
     pre = "<i class='fa fa-2x fa-envelope'></i>"
 
 [params]
@@ -104,22 +195,26 @@ paginate = 10
     # Format dates with Go's time formatting
     date_format = "January 2, 2006"
 
-    logo = "img/logo.png"
-    logo_small = "img/logo-small.png"
-    address = """<p><strong>Universal Ltd.</strong>
-        <br>13/25 New Avenue
-        <br>Newtown upon River
-        <br>45Y 73J
-        <br>England
-        <br>
-        <strong>Great Britain</strong>
+    logo = "img/nuhoglu_vakfi_logo.png"
+    logo_small = "img/nuhoglu_vakfi_logo.png"
+    address = """<p><strong>Nuhoğlu Vakfı</strong>
+				<br>İnönü Mah. Kartal Cad. No: 86 Daire: 7 34755
+				<br>Kayışdağı, Ataşehir - İstanbul / Türkiye
+				<br>
+
+				<br>Telefon:
+				<br>+90 216 311 87 30
+				<br>Fax:
+				<br>+90 216 576 74 66
+				<br>E-posta:
+				<br>info@nuhoglu.org.tr
       </p>
       """
-    latitude = "-12.043333"
-    longitude = "-77.028333"
+    latitude = "40.977668"
+    longitude = "29.139801"
 
 [Permalinks]
-    blog = "/blog/:year/:month/:day/:filename/"
+    blog = "/blog/:year/:filename/"
 
 # Enable or disable top bar with social icons
 [params.topbar]
