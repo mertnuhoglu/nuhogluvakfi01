@@ -1,0 +1,9 @@
+weight: 3
+name: "Üye Bilgi Formu"
+icon: "fa fa-desktop"
+description: >
+  <ul class="list-style-none">
+    <li>Üyelik bilgilerinizi güncellemek için <a href="/form/uye_bilgi_formu/">tıklayın</a></li>
+  </ul>
+
+

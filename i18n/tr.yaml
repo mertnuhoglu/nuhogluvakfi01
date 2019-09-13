@@ -1,0 +1,71 @@
+- id: home
+  translation: "Anasayfa"
+
+- id: templateBy
+  translation: "Şablonu yapan:"
+
+- id: portedBy
+  translation: "Hugoya taşıyan:"
+
+- id: contactGoTo
+  translation: "İletişim sayfasına git"
+
+- id: contactAddrTitle
+  translation: "Adres"
+
+- id: contactTitle
+  translation: "İletişim"
+
+- id: contactForm
+  translation: "İletişim formu"
+
+- id: contactName
+  translation: "İsminiz"
+
+- id: contactMail
+  translation: "Epostanız"
+
+- id: contactMessage
+  translation: "Mesajınız"
+
+- id: contactSend
+  translation: "Mesaj Gönder"
+
+- id: navHome
+  translation: "Anasayfaya git"
+
+- id: navToggle
+  translation: "Navigasyonu Aç/Kapa"
+
+- id: categoriesTitle
+  translation: "Kategoriler"
+
+- id: searchTitle
+  translation: "Arama"
+
+- id: tagsTitle
+  translation: "Etiketler"
+
+- id: continueReading
+  translation: "Okumaya devam et"
+
+- id: readMore
+  translation: "Daha fazlası"
+
+- id: authorBy
+  translation: "Yazar:"
+
+- id: recentPosts
+  translation: "Güncel Yazılar"
+
+- id: aboutUs
+  translation: "Hakkımızda"
+
+- id: newer
+  translation: "Yeni"
+
+- id: older
+  translation: "Eski"
+
+- id: publishedOn
+  translation: "tarihinde"

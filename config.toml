@@ -1,11 +1,11 @@
 baseurl = "https://nuhogluvakfi.netlify.com/"
 title = "Nuhoğlu Vakfı"
 theme = "hugo-universal-theme"
-languageCode = "en-us"
+languageCode = "tr"
 # Site language. Available translations in the theme's `/i18n` directory.
-defaultContentLanguage = "en"
+defaultContentLanguage = "tr"
 # Enable comments by entering your Disqus shortname
-disqusShortname = "devcows"
+disqusShortname = ""
 # Enable Google Analytics by entering your tracking code
 googleAnalytics = ""
 
@@ -80,35 +80,25 @@ paginate = 10
     weight = 3
 
 [[menu.main]]
-    identifier = "basvuru_belgeleri"
+    identifier = "form"
     name = "BAŞVURU BELGELERİ"
-    url  = "/basvuru_belgeleri/"
+    url  = "/form/"
     weight = 4
 
 [[menu.main]]
-    parent = "basvuru_belgeleri"
+    parent = "form"
     name = "ÜYE BİLGİ FORMU"
-    url = "/basvuru_belgeleri/uye_bilgi_formu/"
+    url = "/form/uye_bilgi_formu/"
 
 [[menu.main]]
-    parent = "basvuru_belgeleri"
-    name = "SOSYAL YARDIM İSTEK FORMU"
-    url = "/basvuru_belgeleri/sosyal_yardim_istek_formu/"
-
-[[menu.main]]
-    parent = "basvuru_belgeleri"
-    name = "KIRTASİYE YARDIM ve İSTEK FORMU"
-    url = "/basvuru_belgeleri/kirtasiye_yardim_istek_formu/"
-
-[[menu.main]]
-    parent = "basvuru_belgeleri"
+    parent = "form"
     name = "DİLEK ve İSTEK FORMU"
-    url = "/basvuru_belgeleri/dilek_istek_formu/"
+    url = "/form/dilek_ve_istek_formu/"
 
 [[menu.main]]
-    parent = "basvuru_belgeleri"
+    parent = "form"
     name = "BURS BAŞVURUSU"
-    url = "/basvuru_belgeleri/burs_basvurusu/"
+    url = "/form/burs_basvuru_formu/"
 
 [[menu.main]]
     identifier = "iletisim"
@@ -189,14 +179,14 @@ paginate = 10
     email = "your@email.com"
     contact_form_ajax = false
 
-    about_us = "<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>"
-    copyright = "Copyright (c) 2015 - 2016, YourCompany; all rights reserved."
+    about_us = "<p>Nuhoğlu Vakfı'nın en önemli hedefi, tüm Nuhoğlu Ailesi üyelerinin kültürel zenginliğini artırmaktır.</p>"
+    copyright = "Copyright (c) 2019, Nuhoğlu Vakfı"
 
     # Format dates with Go's time formatting
-    date_format = "January 2, 2006"
+    date_format = "2.01.2006"
 
-    logo = "img/nuhoglu_vakfi_logo.png"
-    logo_small = "img/nuhoglu_vakfi_logo.png"
+    logo = "/img/nuhoglu_vakfi_logo.png"
+    logo_small = "/img/nuhoglu_vakfi_logo.png"
     address = """<p><strong>Nuhoğlu Vakfı</strong>
 				<br>İnönü Mah. Kartal Cad. No: 86 Daire: 7 34755
 				<br>Kayışdağı, Ataşehir - İstanbul / Türkiye
