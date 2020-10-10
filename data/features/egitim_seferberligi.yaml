@@ -1,0 +1,9 @@
+weight: 5
+name: "Eğitim Seferberliği"
+icon: "fas fa-lightbulb"
+description: >
+  <ul class="list-style-none">
+    <li><img src="/img/egitimseferberligi_logo.png" alt=""></li>
+  </ul>
+
+

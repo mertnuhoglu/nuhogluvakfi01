@@ -74,9 +74,9 @@ paginate = 10
     url = "/nuhoglu_vakfi/meyve_bahcemiz/"
 
 [[menu.main]]
-    identifier = "haberler"
-    name = "HABERLER"
-    url  = "/haberler/"
+    identifier = "blog"
+    name = "Blog"
+    url  = "/blog/"
     weight = 3
 
 [[menu.main]]
@@ -89,16 +89,6 @@ paginate = 10
     parent = "form"
     name = "ÜYE BİLGİ FORMU"
     url = "/form/uye_bilgi_formu/"
-
-[[menu.main]]
-    parent = "form"
-    name = "DİLEK ve İSTEK FORMU"
-    url = "/form/dilek_ve_istek_formu/"
-
-[[menu.main]]
-    parent = "form"
-    name = "BURS BAŞVURUSU"
-    url = "/form/burs_basvuru_formu/"
 
 [[menu.main]]
     identifier = "iletisim"
@@ -149,9 +139,8 @@ paginate = 10
 
 [params]
     viewMorePostLink = "/blog/"
-    author = "DevCows"
-    defaultKeywords = ["devows", "hugo", "go"]
-    defaultDescription = "Site template made by devcows using hugo"
+    defaultKeywords = ["haberler"]
+    defaultDescription = "Nuhoğlu Vakfı Blog"
 
     # Twitter
     twitter = "GoHugoIO"
@@ -261,3 +250,4 @@ paginate = 10
     enable = true
     title = "Haberler"
     subtitle = "Vakfımızdan güncel haberler"
+

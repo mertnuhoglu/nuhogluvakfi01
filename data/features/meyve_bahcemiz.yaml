@@ -1,0 +1,8 @@
+weight: 4
+name: "Meyve Bahçemiz"
+icon: "fas fa-lightbulb"
+description: >
+  <ul class="list-style-none">
+    <li><img src="/img/meyvebahcemiz_logo.png" alt=""></li>
+  </ul>
+
