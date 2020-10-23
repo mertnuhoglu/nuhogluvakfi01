@@ -28,7 +28,7 @@ Nuhoğlu vakfının yeniden kültür ve sanat eğitimlerine devam etme kararın�
 
 Ekmek, su gibi sanatta insani besler, büyütür ve özgürleştirir. Yaşadığımız sorunların çözümü sorgulamaktan geçer. Sanat insanın aynasıdır, gerçeklerle yüzleşmesini sağlar. Düşündürür, hayal kurdurur.  
 
-![](/img/blog/farkli-dusunebilmek-aykurt-nuhoglu3.jpeg)
+![](/img/blog/farkli-dusunebilmek-aykurt-nuhoglu3.png)
 
 
 
