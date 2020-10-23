@@ -5,7 +5,7 @@ draft = false
 tags = ["haberler"]
 categories = ["haberler"]
 banner = "/img/blog/farkli-dusunebilmek-aykurt-nuhoglu1.jpeg"
-author = "Hayri Nuhoğlu"
+author = "Aykurt Nuhoğlu"
 +++
 
 
