@@ -10,8 +10,6 @@ author = "Kubilay Nuhoğlu"
 
 Çocukluğumun en güzel günlerini deniz kıyısında memleketim Trabzon’daki Yıldızlı Askeri Kampında geçirdim. 
 
-![](/img/blog/denizcinin-mezarinda-gul-bitmez-kubilay-nuhoglu-01.jpg)
-
 1974 yazıydı. 7 yaşındaydım. Kavak meydanından otobüslerle başlayan yolculuğumuz Yıldızlıdaki rampa başlangıcında sona ermiş ve kampın giriş kapısı görünmüştü. Otobüslerden indikten sonra toprak bir yolu takip ederek kalacağımız motellere vardık.  Motellerin arkasında köylülere ait sebze bahçeleri, ön tarafta ise kavak ağaçlarının gölgesinde piknik masalarının olduğu bir bölüm, devamında kumsal ve deniz vardı. Kumsalın başladığı yere gidip ufka baktığımda gözlerimin önünde göz alabildiğine lacivert Karadeniz’i gördüm. Bu an, deniz ile karşılaştığım ilk andı.  Arkamda yemyeşil ağaçlardan oluşan bir dağ sırası, etrafta cıvıl cıvıl kuş sesleri, önümde ise göz alabildiğine lacivert Karadeniz… 
 
 ![](/img/blog/denizcinin-mezarinda-gul-bitmez-kubilay-nuhoglu-02.jpg)
