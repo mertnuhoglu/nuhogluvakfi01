@@ -4,13 +4,13 @@ date = 2020-10-27T10:58:19+03:00
 draft = true
 tags = ["haberler"]
 categories = ["haberler"]
-banner = "img/blog/aci-bir-gundu-saban-nuhoglu-01.jpg"
+banner = "/img/blog/aci-bir-gundu-saban-nuhoglu-01.jpg"
 author = "Şaban Nuhoğlu"
 +++
 
 Eskişehir’deyim, günler akıp gidiyor… Kış mevsiminin soğuk günlerindeyiz. Kar henüz etkisini göstermemiş, geleceğini sert esen rüzgarında hissettiriyordu.
 
-![](img/blog/aci-bir-gundu-saban-nuhoglu-01.jpg)
+![](/img/blog/aci-bir-gundu-saban-nuhoglu-01.jpg)
 
 Soğuk, sıkıcı bir geceydi. İki gündür, içimde bir sıkıntı vardı. Kendi kendime acaba acı bir haber mi alacağım diye düşünürken, telefonum çaldı. İçimdeki sıkıntı artmaya başladı. Telefonda Ertuğrul Nuhoğlu’nun kısık sesini duydum. Ertuğrul:
 
@@ -28,13 +28,13 @@ Ben hala haberin etkisindeydim. Ertuğrul:
 
 O gece benim için en acı gündü. 
 
-![](img/blog/aci-bir-gundu-saban-nuhoglu-02.jpg)
+![](/img/blog/aci-bir-gundu-saban-nuhoglu-02.jpg)
 
 Sadık’ı çok seviyordum. Onu gençliğinden tanırım. Gençliğinin en güzel günlerini terzilikle geçirmiştir. İyi bir terzidir. İstanbul’da ünlü terzilerin yanında mesleğin inceliklerini öğrenmiş iyi bir terzi ustası olmuştu. Sonra Çankırı’ya döndü. Bir terzinin yanında çalıştı. Evlendi fakat ekonomik şartlardan dolayı terzinin yanından ayrılarak Devlet Hastanesinde terzi olarak işe başladı. 
 
 Arkadaşları tarafından çok seviliyordu. Kısa sürede amirleri tarafından da çok sevildi. Hastanelerde kurulan 112 Acil Servis şoförü oldu. Hastanede herkese elinden gelen yardımı yapıyordu.
 
-![](img/blog/aci-bir-gundu-saban-nuhoglu-03.jpg)
+![](/img/blog/aci-bir-gundu-saban-nuhoglu-03.jpg)
 
 Sadık, Nuhoğlu Vakfı’nın önemli bir üyesiydi. Vakfın tüm faaliyetlerine katılıyordu. Vakıfın diğer şehirlerdeki üyeleriyle samimi ilişkiler kuruyordu. Kısa sürede Çankırı’da yaşayan Nuhoğlu ailelerini bir araya gelmeleri konusunda aktif rol oynadı. Çankırı’da düzenlenen Yöresel Buluşma Organizasyonunda başarılı çalışma yaptı. Çeşitli illerden gelen Nuhoğlu aile fertleriyle birebir ilgilendi. Nuhoğlu Vakfı üyeleri tarafından çok seviliyordu. 
 
@@ -46,7 +46,7 @@ Asla ümidini kaybetmedi. Hastalığı nedeniyle emekli oldu.
 
 Ağustos ayının bir pazar günü Sadık beni aradı, birlikte Çankırı Orduevine gittik. Orada saatlerce sohbet ettik. O hastalığının inceliklerini ve tedaviyi uzun uzun anlattı. O anlattıkça benim içim sızlıyordu. Neler çekmiş neler çekmiş. Fakat Sadık tedaviden hiç umudunu kesmemişti. Takdir Allah’tan diyor, Allah’a dua ediyordu. İçimden “inşallah inşallah” diyordum. Beraberce ayrıldık. 
 
-![](img/blog/aci-bir-gundu-saban-nuhoglu-04.jpg)
+![](/img/blog/aci-bir-gundu-saban-nuhoglu-04.jpg)
 
 O gece sabaha kadar uyuyamadım. Nihayet sabah 7:30’da yola çıktık. Hava soğuk ve karanlıktı. Yolda giderken Ertuğrul, Sadık’la ilgili anısını anlattı. Anlatırken çok duygulandı. Ertuğrul, hanımıyla Çankırı’ya gelmiş, Sadık onları misafir etmiş. Paşa köyüne yaylaya gitmişler. Orada güzel bir piknik yapmışlar. Ertuğrul:
 
@@ -60,4 +60,4 @@ Yolumuz uzundu. Hava iyice kararmıştı. Ertuğrul ve ben sessizce yolumuza dev
 
 Şaban Nuhoğlu 27 Aralık 2009
 
-![](img/blog/aci-bir-gundu-saban-nuhoglu-05.jpg)
+![](/img/blog/aci-bir-gundu-saban-nuhoglu-05.jpg)
