@@ -114,6 +114,7 @@ Kaynakça:
 
 ![](/img/blog/denizcinin-mezarinda-gul-bitmez-kubilay-nuhoglu-20.jpg)
 
+Kubilay Nuhoğlu
 
 
 
