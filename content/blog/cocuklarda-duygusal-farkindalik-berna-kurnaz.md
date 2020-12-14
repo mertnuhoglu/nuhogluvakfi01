@@ -1,11 +1,11 @@
 +++
-title = "Cocuklarda Duygusal Farkindalik Berna Kurnaz"
+title = "Cocuklarda Duygusal Farkindalik - Berna Kurnaz"
 date = 2020-12-20T22:13:34+03:00
 draft = true
 tags = ["haberler"]
 categories = ["haberler"]
-banner = "/img/blog/kurumsal-aidiyet-aygul-fazlioglu-01.jpg"
-author = "Aygül Nuhoğlu"
+banner = "/img/blog/cocuklarda-duygusal-farkindalik-berna-kurnaz-01.jpg"
+author = "Berna Kurnaz"
 +++
 
 ## Çocuklarınızı ne kadar tanıyorsunuz? 
