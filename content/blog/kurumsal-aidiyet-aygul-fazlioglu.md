@@ -1,11 +1,11 @@
 +++
-title =  "Kurumsal Aidiyet Aygul Fazlioglu"
+title =  "Kurumsal Aidiyet - Aygül Fazlıoğlu"
 date = 2020-12-14T22:13:34+03:00
 draft = false
 tags = ["haberler"]
 categories = ["haberler"]
 banner = "/img/blog/kurumsal-aidiyet-aygul-fazlioglu-01.jpg"
-author = "Aygül Nuhoğlu"
+author = "Aygül Fazlıoğlu"
 +++
 
 Beslendiğinde Yeşeren, Beslenmediğinde Solan Duygumuz: Kurumsal Aidiyet !!!
