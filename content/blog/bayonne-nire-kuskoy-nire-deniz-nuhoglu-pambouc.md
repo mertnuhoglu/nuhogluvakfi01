@@ -22,7 +22,7 @@ Herhalde kırk yıl düşünsem bir gün bu yabancı topraklara yerleşip o güz
 
 ![“Les Ethiopiques” Festivali'nin 2019 Yılı Afişi](/img/blog/bayonne-nire-kuskoy/gorsel03.jpg)
 
-Türkiye ve yurtdışındaki birçok film festivalinde ödüller alan Çağla Zencirci ve Guillaume yönetmenliğini yaptığı başrolünde Damla Sönmez’in yer aldığı “Sibel” filmini artık duymayan kalmadı. Türkiye’de Şubat, Fransa’da da Mart 2019’da gösterime giren film, Kuşköy’de yasayan ve ıslık diliyle iletişim kuran 25 yaşındaki dilsiz bir genç kadının, Sibel’in öyküsünü anlatıyor. 
+Türkiye ve yurtdışındaki birçok film festivalinde ödüller alan Çağla Zencirci ve Guillaume Giovanetti'nin yönetmenliğini yaptığı başrolünde Damla Sönmez’in yer aldığı “Sibel” filmini artık duymayan kalmadı. Türkiye’de Şubat, Fransa’da da Mart 2019’da gösterime giren film, Kuşköy’de yasayan ve ıslık diliyle iletişim kuran 25 yaşındaki dilsiz bir genç kadının, Sibel’in öyküsünü anlatıyor. 
 
 Karadeniz’in muhteşem yayla manzaralarının, kuş dilinin seslerinin ve bu güçlü kadın karakterinin Fransa’daki izleyicilere ilk ulaştığı yerlerden biri Bask Bölgesi’nde yer alan Bayonne kentindeki Atalante Sineması’ydı. Filmin gösterimi Ezkandrai derneği tarafından on yıldır düzenlenen “Les Ethiopiques” festivali çerçevesinde gerçekleşmişti.
 
@@ -56,6 +56,7 @@ Araştırmacılar dünyada 60’ın üzerinde ıslık dilinin varlığından sö
 
 2014 yılından bu yana Çanakçı Halk Eğitim Merkezi’nde her yıl düzenli olarak açılan derslerle de az bulunur ata mirasımızın yaşadığımız bu bilim ve teknoloji çağında yeni nesillere ulaşması için büyük çabalar gösteriliyor.
 
+![](/img/blog/bayonne-nire-kuskoy/gorsel10.jpg)
 ![Dünya da ıslık dilinin konuşulduğu yerler](/img/blog/bayonne-nire-kuskoy/gorsel10.jpg)
 
 Film boyunca Sibel ve Kuşköy sakinlerinin ıslık sesleriyle dolup taşan sinema salonunu söyleşimizin sonunda Philippe Biu Bearn’da konuşulan Oksitan ıslık sesleriyle doldururken kendi kendime “Bayonne Nire Kuşköy Nire” demekten alamadım ve tabi ki aklıma hemen Barış Manço’nun o ünlü şarkısı geldi, “Hemşerim Memleket Nire?”. Ve şarkı devam ediyor:
