@@ -4,7 +4,7 @@ date = 2021-02-27T14:47:56+03:00
 draft = false
 tags = ["haberler"]
 categories = ["haberler"]
-banner = "/img/blog/is-dunyasi-sanata-evet-dedi/kapak_gorseli.jpg"
+banner = "/img/blog/is-dunyasi-sanata-evet-dedi-tugce-nuhoglu/kapak_gorseli.jpg"
 author = "Tuğçe Nuhoğlu"
 +++
 
