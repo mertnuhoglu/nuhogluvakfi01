@@ -1,5 +1,5 @@
 +++
-title = "Cocuklarda Duygusal Farkindalik - Berna Kurnaz"
+title = "Çocuklarda Duygusal Farkındalık - Berna Kurnaz"
 date = 2021-03-16T11:17:55+03:00 
 tags = ["haberler"]
 categories = ["haberler"]
