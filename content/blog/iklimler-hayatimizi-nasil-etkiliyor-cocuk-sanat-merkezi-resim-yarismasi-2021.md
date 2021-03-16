@@ -1,11 +1,10 @@
----
++++
 title = "Hayrat Cocuk Sanat Merkezi Resim Yarismasi 2021"
 date = 2021-03-15T18:18:36+03:00
 tags = ["haberler"]
 categories = ["haberler"]
 banner = "/img/blog/iklimler-hayatimizi-nasil-etkiliyor-cocuk-sanat-merkezi-resim-yarismasi-2021/banner.jpg"
-
----
++++
 
 # NUHOĞLU VAKFI HAYRAT ÇOCUK SANAT MERKEZİ "İKLİMLER HAYATIMIZI NASIL ETKİLİYOR" KONULU RESİM BULUŞMASI ŞARTNAMESİ 
 
