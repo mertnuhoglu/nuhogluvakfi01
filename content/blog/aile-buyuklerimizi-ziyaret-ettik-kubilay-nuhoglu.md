@@ -4,7 +4,7 @@ date = 2022-04-21T17:53:59+03:00
 draft = false
 tags = ["haberler"]
 categories = ["haberler"]
-banner = "/img/blog/aile-buyuklerimizi-ziyaret-ettik-kubilay-nuhoğlu/kapak_gorseli.jpeg"
+banner = "/img/blog/aile-buyuklerimizi-ziyaret-ettik-kubilay-nuhoglu/kapak_gorseli.jpeg"
 +++
 
 Nuhoğlu Ailesi ve Yakınları Vakfı Yönetim Kurulu olarak 9 Nisan 2022 Pazar günü Aile Büyüklerimizi ziyaret ettik. 
